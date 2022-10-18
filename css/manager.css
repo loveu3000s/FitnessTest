@@ -1,0 +1,39 @@
+h3 {
+    display: inline-block;
+    width: 125px;
+    font-size: 20px;
+}
+
+#mydatepicker2,
+#userData {
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.row {
+    margin-left: 50px;
+}
+
+th,
+tr,
+td {
+    height: 18px;
+    padding: 1px 0;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+caption {
+    font-size: 20px;
+}
+
+.stuDiv {
+    position: relative;
+}
+
+.getScore {
+    position: absolute;
+    top: 0;
+    right: 590px;
+}
